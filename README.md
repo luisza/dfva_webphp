@@ -1,5 +1,8 @@
 # dfva_webphp
-PHP Example of how to integrate using laravel
+
+Este proyecto es una demostración de como integrar dfva_php en una aplicación web, permite demostrar cómo se realiza la firma.
+
+Está desarrollado con Laravel + php 7.3 + dfva_php , conecta con una base de datos sqlite.
 
 # Instalación
  
